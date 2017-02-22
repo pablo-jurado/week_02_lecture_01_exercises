@@ -19,7 +19,7 @@ d) cascading
 
 2.Which of the following options lists the order of CSS precedence from least important to most important?
 
-a) External stylesheet, Internal styles, Inline styles, !important
+``` answer a) External stylesheet, Internal styles, Inline styles, !important ```
 
 b) !important, Internal Styles, External stylesheet, Inline styles
 
@@ -27,41 +27,49 @@ c) Internal styles, External stylesheet, Inline styles, !important
 
 d) External stylesheet, Inline styles, Internal styles, !important
 
-Circle the two items that form a CSS declaration.
+---
 
-a) Property
+3.Circle the two items that form a CSS declaration.
+
+``` answer a) Property```
 
 b) Selector
 
 c) Cascade
 
-d) Value
+``` answer d) Value```
 
 e) Body
 
-Which two of the following properties affect the spacing between elements?
+---
+
+4.Which two of the following properties affect the spacing between elements?
 
 a) font-size
 
-b) padding
+``` answer b) padding```
 
 c) font-weight
 
-d) margin
+``` answer d) margin```
 
 e) border-radius
 
-Which characters surround a declaration block?
+---
+
+5.Which characters surround a declaration block?
 
 a) []
 
 b) ()
 
-c) {}
+``` answer c) {}```
 
 d) ""
 
-Property / Value pairs are separated using which character?
+---
+
+6.Property / Value pairs are separated using which character?
 
 a) ;
 
@@ -69,9 +77,11 @@ b) <
 
 c) {}
 
-d) :
+``` answer d) :```
 
-Which value can be applied to the width property?
+---
+
+5.Which value can be applied to the width property?
 
 a) 100px
 
@@ -81,13 +91,13 @@ c) auto
 
 d) inherit
 
-e) All of the above
+``` answer e) All of the above```
 
-Which property affects the vertical spacing between lines of text?
+6.Which property affects the vertical spacing between lines of text?
 
 a) letter-spacing
 
-b) line-height
+``` answer b) line-height```
 
 c) text-align
 
@@ -95,9 +105,11 @@ d) text-lines
 
 e) text-justify
 
-Which property affects the horizontal spacing between font glyphs?
+---
 
-a) letter-spacing
+7.Which property affects the horizontal spacing between font glyphs?
+
+``` answer a) letter-spacing```
 
 b) word-spacing
 
@@ -107,25 +119,29 @@ d) text-align
 
 e) text-style
 
-Which two properties are required to render a bold italic font?
+----
+
+8.Which two properties are required to render a bold italic font?
 
 a) font-family
 
 b) font-size
 
-c) font-style
+``` answer c) font-style```
 
 d) font-variant
 
-e) font-weight
+``` answer e) font-weight```
 
-Which of the following fonts is considered web safe, you may select more than one choice:
+---
 
-a) Arial
+9.Which of the following fonts is considered web safe, you may select more than one choice:
+
+```a) Arial```
 
 b) Avenir
 
-c) Courier
+```c) Courier```
 
 d) Frutiger
 
@@ -133,22 +149,24 @@ e) Futura
 
 f) Gibson
 
-g) Helvetica
+```g) Helvetica```
 
 h) "Linotype Didot"
 
-i) "Lucida Grande"
+```i) "Lucida Grande"```
 
 j) Museo
 
-k) Palatino
+```k) Palatino```
 
 l) "Pluto Sans"
 
 m) "Proxima Nova"
 
-n) Times
+```n) Times```
 
 o) Univers
 
-p) Verdana
+```p) Verdana```
+
+---
