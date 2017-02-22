@@ -1,0 +1,17 @@
+/*a) Divs with a class that begins with the "el-"*/
+div[ class^="el-" ]{};
+
+/*b) Elements with a class that contains "atr"*/
+*[ class*="atr"]{};
+
+/*c) Labels with a for attribute*/
+label[for]{};
+
+/*d) Elements with an id that ends with "special"*/
+*[ id$="special" ]{};
+
+/*e) Elements with a lang attribute that starts with "en" and contains a dash*/
+*[ lang|="en"]{}; /* NOTE: not sure about this one */
+
+/*f) Buttons with a value of ""*/
+button[value=""]{};

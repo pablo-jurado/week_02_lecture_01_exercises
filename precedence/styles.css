@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+}
+
+.box{
+    background-color: yellow;
+    width: 100px;
+    display: inline-block;
+    height: 100px;
+}
+.special {
+  background-color: white;
+  box-shadow: 0 0 15px lightgrey;
+}

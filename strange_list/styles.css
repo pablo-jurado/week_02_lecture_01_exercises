@@ -1,0 +1,10 @@
+/* style.css */
+div{
+    font-family: Helvetica, Arial, sans-serif;
+    width: 360px;
+    margin: 0 auto;
+    padding: 20px;
+    border:  1px solid red;
+}
+
+/* Your code here */

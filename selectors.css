@@ -1,0 +1,27 @@
+/*The last li (line 20) in the document.*/
+section ol:last-child li:last-child {
+  background-color: lightblue;
+}
+/* The first li (lines 12 and 22) in each ordered list.*/
+section ol li:first-child {
+  background-color: orange;
+}
+/*c. The first li (line 12) of the first ordered list.*/
+section ol:nth-child(2) li:first-child {
+  font-weight: 800;
+  font-style: italic;
+  color: white;
+}
+
+/* I don't know why this ones won't work
+section ~ h3, section + h3 {
+  font-size: 20px;
+  text-shadow: 5px 5px 5px grey;
+}*/
+
+/*The first h3 (line 10) tag.*/
+section h3:first-child {
+  font-size: 20px;
+  color: white;
+  text-shadow: 0 0 8px black;
+}
