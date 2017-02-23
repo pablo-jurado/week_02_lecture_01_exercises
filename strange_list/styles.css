@@ -8,3 +8,10 @@ div{
 }
 
 /* Your code here */
+ul {
+  color: red;
+  font-weight:600;
+}
+ul ul {
+  color: blue;
+}

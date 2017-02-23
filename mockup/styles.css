@@ -8,8 +8,14 @@ div{
 
 h1{
     /*code here*/
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 15px;
 }
 
 p{
     /*code here*/
+    line-height: 30px;
+    /*text-align: justify;*/
+    word-break: break-all;
 }
